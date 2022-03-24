@@ -45,16 +45,22 @@ namespace prjToDo.Controllers
             return RedirectToAction("Index");
         }
 
+        public ActionResult Edit(int id)
+        {
+            var todo = db.tToDo.Where
+                (m => m.fId == id).FirstOrDefault();
+            return View(todo);
+        }
+
         [HttpPost]
         public ActionResult Edit
             (int fId ,string fTitle, string fImage, DateTime fDate)
         {
-            tToDo todo = db.tToDo.Where
+            var todo = db.tToDo.Where
                 (m => m.fId == fId).FirstOrDefault();
             todo.fTitle = fTitle;
             todo.fImage = fImage;
             todo.fDate = fDate;
-            db.tToDo.Add(todo);
             db.SaveChanges();
             return RedirectToAction("Index");
         }
