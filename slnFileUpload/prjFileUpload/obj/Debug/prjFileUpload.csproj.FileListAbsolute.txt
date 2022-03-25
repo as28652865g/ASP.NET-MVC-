@@ -48,8 +48,6 @@ D:\Harry_S各類型檔案\文件整理\程式學習\跟實務學習MVC\練習範
 D:\Harry_S各類型檔案\文件整理\程式學習\跟實務學習MVC\練習範例\slnFileUpload\prjFileUpload\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
 D:\Harry_S各類型檔案\文件整理\程式學習\跟實務學習MVC\練習範例\slnFileUpload\prjFileUpload\bin\zh-Hant\System.Web.Helpers.resources.dll
 D:\Harry_S各類型檔案\文件整理\程式學習\跟實務學習MVC\練習範例\slnFileUpload\prjFileUpload\bin\zh-Hant\System.Web.Mvc.resources.dll
-D:\Harry_S各類型檔案\文件整理\程式學習\跟實務學習MVC\練習範例\slnFileUpload\prjFileUpload\obj\Debug\prjFileUpload.csproj.AssemblyReference.cache
-D:\Harry_S各類型檔案\文件整理\程式學習\跟實務學習MVC\練習範例\slnFileUpload\prjFileUpload\obj\Debug\prjFileUpload.csproj.CoreCompileInputs.cache
-D:\Harry_S各類型檔案\文件整理\程式學習\跟實務學習MVC\練習範例\slnFileUpload\prjFileUpload\obj\Debug\prjFileUpload.csproj.CopyComplete
 D:\Harry_S各類型檔案\文件整理\程式學習\跟實務學習MVC\練習範例\slnFileUpload\prjFileUpload\obj\Debug\prjFileUpload.dll
 D:\Harry_S各類型檔案\文件整理\程式學習\跟實務學習MVC\練習範例\slnFileUpload\prjFileUpload\obj\Debug\prjFileUpload.pdb
+D:\Harry_S各類型檔案\文件整理\程式學習\跟實務學習MVC\練習範例\slnFileUpload\prjFileUpload\obj\Debug\prjFileUpload.csprojResolveAssemblyReference.cache
